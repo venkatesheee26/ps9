@@ -1,0 +1,8 @@
+D:\ps\ps9\ps9\bin\Debug\ps9.exe.config
+D:\ps\ps9\ps9\bin\Debug\ps9.exe
+D:\ps\ps9\ps9\bin\Debug\ps9.pdb
+D:\ps\ps9\ps9\obj\Debug\ps9.csproj.AssemblyReference.cache
+D:\ps\ps9\ps9\obj\Debug\ps9.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps9\ps9\obj\Debug\ps9.csproj.CoreCompileInputs.cache
+D:\ps\ps9\ps9\obj\Debug\ps9.exe
+D:\ps\ps9\ps9\obj\Debug\ps9.pdb
